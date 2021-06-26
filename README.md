@@ -1,0 +1,1 @@
+This is a project which is part of The Odin Project to learn & practice coding.
